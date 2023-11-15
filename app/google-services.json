@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148205896505",
+    "project_id": "chatlinkapp-587b4",
+    "storage_bucket": "chatlinkapp-587b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148205896505:android:176a0a0bfbb92803bd5ee8",
+        "android_client_info": {
+          "package_name": "com.example.chatlink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwV_lSKIULgK0ks4RAUVDW_LKkgny9Wtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
